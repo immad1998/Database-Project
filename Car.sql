@@ -1,0 +1,15 @@
+insert into Car (Car_iD, Reg_No, Car_Model, Car_Type, Color, Engine_No, Dri_iD) values (1, '761', 2009, 'Galant', 'Pink', '48-086-5333', 1);
+insert into Car (Car_iD, Reg_No, Car_Model, Car_Type, Color, Engine_No, Dri_iD) values (2, '6252', 1996, 'Alcyone SVX', 'Khaki', '97-669-8106', 2);
+insert into Car (Car_iD, Reg_No, Car_Model, Car_Type, Color, Engine_No, Dri_iD) values (3, '96617', 2010, 'Landaulet', 'Teal', '78-250-9406', 3);
+insert into Car (Car_iD, Reg_No, Car_Model, Car_Type, Color, Engine_No, Dri_iD) values (4, '5850', 1999, 'RX', 'Green', '15-676-8275', 4);
+insert into Car (Car_iD, Reg_No, Car_Model, Car_Type, Color, Engine_No, Dri_iD) values (5, '2', 2011, 'Q5', 'Blue', '96-821-6102', 5);
+insert into Car (Car_iD, Reg_No, Car_Model, Car_Type, Color, Engine_No, Dri_iD) values (6, '93176', 2007, 'Camry Solara', 'Turquoise', '94-759-2236', 6);
+insert into Car (Car_iD, Reg_No, Car_Model, Car_Type, Color, Engine_No, Dri_iD) values (7, '157', 2012, 'Genesis', 'Fuscia', '81-753-1484', 7);
+insert into Car (Car_iD, Reg_No, Car_Model, Car_Type, Color, Engine_No, Dri_iD) values (8, '7', 1984, 'Scirocco', 'Aquamarine', '04-447-4570', 8);
+insert into Car (Car_iD, Reg_No, Car_Model, Car_Type, Color, Engine_No, Dri_iD) values (9, '45950', 2011, 'DB9', 'Khaki', '26-236-9072', 9);
+insert into Car (Car_iD, Reg_No, Car_Model, Car_Type, Color, Engine_No, Dri_iD) values (10, '4', 2012, 'Veracruz', 'Indigo', '21-548-3538', 10);
+insert into Car (Car_iD, Reg_No, Car_Model, Car_Type, Color, Engine_No, Dri_iD) values (11, '756', 1971, 'Mustang', 'Violet', '92-603-3457', 11);
+insert into Car (Car_iD, Reg_No, Car_Model, Car_Type, Color, Engine_No, Dri_iD) values (12, '73', 2010, 'X3', 'Green', '65-439-0513', 12);
+insert into Car (Car_iD, Reg_No, Car_Model, Car_Type, Color, Engine_No, Dri_iD) values (13, '956', 1995, 'Silhouette', 'Maroon', '50-999-7744', 13);
+insert into Car (Car_iD, Reg_No, Car_Model, Car_Type, Color, Engine_No, Dri_iD) values (14, '666', 2004, 'Savana 1500', 'Mauv', '83-189-4167', 14);
+insert into Car (Car_iD, Reg_No, Car_Model, Car_Type, Color, Engine_No, Dri_iD) values (15, '429', 1991, 'Taurus', 'Yellow', '95-013-9838', 15);
